@@ -1,7 +1,7 @@
-const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, I still think about you sometimes.\n\nWe both tried. We both cared. But the universe just never gave us enough space to become “us.”\n\nI just wonder… if we had met at a different point in life, would the ending have been different?\n\nAnyway, I hope you're doing okay, even though we’re not in each other’s lives anymore.`;
+const message = `I don’t even know if you’ll ever read this.\nBut if you do then hello my pretty baby, i hope this letter brings you well this kind of effort doesn't count this is so basic haha i love you.\n\nYou know baby that im scared to lose everything that excites me the most? my biggest fear is to be separated by you and i guess we'll never do that to each other cuz you already know i wanted “us.”\n\nI love you since i met you but i never got a courage to tell cuz i don't even know myself so i rather just be calm and wait for the right time to be with you\n\nAlways remember that im always here for you whenever you need me, i'll never gonna leave your side because my priority is you and nothing else..`;
 
 function showLetter() {
-  document.getElementById("introText").style.opacity = 0;
+  document.getElementById("intro text").style.opacity = 0;
   document.querySelector(".btn").style.display = "none";
 
   setTimeout(() => {
@@ -21,3 +21,4 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
